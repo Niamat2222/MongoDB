@@ -1,0 +1,3 @@
+POST http://localhost:3001/api/reminders Content-Type: application/json
+
+{ "name": "Niamat", "timestamp": "31032022" }
